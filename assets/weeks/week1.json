@@ -1,0 +1,50 @@
+{
+	"storyName": "ffa_grinder",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Baseplate",
+			"dad",
+			[
+				100,
+				100,
+				133
+			]
+		],
+		[
+			"Rock",
+			"dad",
+			[
+				100,
+				100,
+				133
+			]
+		],
+		[
+			"Streak",
+			"dad",
+			[
+				100,
+				100,
+				133
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ffa_grinder",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,16 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "dad",
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Fresh"
+	}
+}
